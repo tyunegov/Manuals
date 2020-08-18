@@ -1,8 +1,16 @@
-﻿[TOC]
+﻿1. Citect.ini
+
+   -[BlockExec](#BlockExec)
+
+   -[Language](#Language)
+2. Видео
+      -[Excel с помощью ODBC/DSN](#Excel)
+
+------
 
 # Citect.ini
 
-## **[Security]BlockExec**
+## Language<a name="BlockExec"></a>	BlockExec
 
   По умолчанию установленно - 1.
 
@@ -10,7 +18,7 @@
 
   - 1 - Запуск Exec запрещен.
 
-## **[Language]**
+## <a name="Language"></a>	Language
 ### LocalLanguage
   - 0 - Russian(Russia)
 ### LocalLanguageOnly
@@ -24,6 +32,6 @@
 
 # Видео
 
-## Excel с помощью ODBC/DSN
+## <a name="Excel"></a> Excel с помощью ODBC/DSN
 
 https://www.youtube.com/watch?v=j8W5O7N1SFo
