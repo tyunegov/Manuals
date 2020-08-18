@@ -1,4 +1,6 @@
-﻿# Citect.ini
+﻿[TOC]
+
+# Citect.ini
 
 ## **[Security]BlockExec**
 
@@ -12,8 +14,13 @@
 ### LocalLanguage
   - 0 - Russian(Russia)
 ### LocalLanguageOnly
-   - language drop-down list displays 
-   - language drop-down list does not display
+   - 0 - language drop-down list displays 
+
+   - 1 - language drop-down list does not display
+
+     ------
+
+     
 
 # Видео
 
